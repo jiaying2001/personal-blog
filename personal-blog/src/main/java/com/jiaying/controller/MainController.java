@@ -14,13 +14,13 @@ import lombok.extern.slf4j.Slf4j;
  *
  */
 
-@Slf4j
-@Controller
-@RequestMapping("/")
+//@Slf4j
+//@Controller
+//@RequestMapping("/")
 public class MainController {
-	@GetMapping
-	public String showHome() {
-		return "home";
-	}
+//	@GetMapping
+//	public String showHome() {
+//		return "home";
+//	}
 	
 }
